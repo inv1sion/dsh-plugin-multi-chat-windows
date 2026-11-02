@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.3 — 2026-11-02
+
+- Bottom-dock chips: four-state live status dot — spinning ring while running,
+  green after completion (new messages), yellow when an approval is pending,
+  muted gray when idle. Labels via locale; state read straight from the session
+  catalog (`running` / `pendingInteraction` / `completed`).
+
 ## 0.4.2 — 2026-11-02
 
 First public release (npm + GitHub).

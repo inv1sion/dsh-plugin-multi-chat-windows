@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-multi-chat-windows",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "DSH Web GUI plugin: side-by-side native chat windows rendered in-page (real conversation with composer, model selection and view tabs) that dock beside the main chat and minimize, tile and pop out freely",
   "type": "module",
   "main": "lib/index.js",
