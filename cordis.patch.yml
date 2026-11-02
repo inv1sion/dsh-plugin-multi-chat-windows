@@ -1,0 +1,6 @@
+# Bundle patch for dsh-plugin-multi-chat-windows.
+# Declares this package's plugin rows for the Loader; the Web client half is
+# discovered through package.json `dsh.client` (exports["./client"]).
+- insert:
+    - id: multi-chat-windows
+      name: dsh-plugin-multi-chat-windows

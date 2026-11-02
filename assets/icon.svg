@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Multi chat windows">
+  <rect width="256" height="256" rx="58" fill="#4D6BFE"/>
+  <rect x="42" y="64" width="120" height="102" rx="14" fill="#ffffff" opacity=".38"/>
+  <rect x="94" y="102" width="120" height="98" rx="14" fill="#ffffff"/>
+  <path d="M108 102h92a14 14 0 0 1 14 14v8H94v-8a14 14 0 0 1 14-14Z" fill="#E4EAFF"/>
+  <circle cx="108" cy="113" r="4.5" fill="#4D6BFE"/>
+  <rect x="124" y="110" width="74" height="6" rx="3" fill="#B9C6FF"/>
+</svg>
