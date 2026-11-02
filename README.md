@@ -15,7 +15,7 @@ English: [README.en.md](./README.en.md) · Changelog: [CHANGELOG.md](./CHANGELOG
 
 **话分两头：把它们并排放开。** 你这边对话完，那边接着对话；两边都是**真正的原生对话**——能输入、能选模型、能看 Chat / Trajectory，不是截图式的阉割视图。
 
-![话分两头 · 试用说明](https://github.com/yuna78/dsh-plugin-multi-chat-windows/raw/main/docs/demo-annotated.png)
+![话分两头 · 使用说明](https://github.com/yuna78/dsh-plugin-multi-chat-windows/raw/main/docs/demo-annotated.png)
 
 ## 装上之后
 
