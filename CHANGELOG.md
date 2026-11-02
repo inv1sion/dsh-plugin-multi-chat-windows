@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.4.5 — 2026-11-02
+
+- Status dots now read the **same source as the sidebar** (`uiSession`'s session-status
+  overlay): running (spinner), approval/plan-review/question pending (yellow),
+  completion-unread = new results you haven't seen (green), idle (muted).
+  Fixes the mismatch where the sidebar showed a green dot while our window stayed gray.
+- The floating window's leading dot is now this true status dot; the snap state lives
+  on the dock button (its blue tint) to end the confusion.
+- Adds `@deepseek-ai/dsh-client-ui-session` to `dsh.client.inject`; graceful fallback to
+  catalog fields when the service is absent (older DSH).
+
 ## 0.4.4 — 2026-11-02
 
 - Floating windows now carry the **native background-jobs indicator** (`dsh-client-ui-jobs`'s
