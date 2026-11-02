@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.4 — 2026-11-02
+
+- Floating windows now carry the **native background-jobs indicator** (`dsh-client-ui-jobs`'s
+  `conversation.session.header.actions` slot) portaled into the window header, session-scoped:
+  "N background jobs" with live count, popover roster, per-job output and stop button —
+  exactly like the main view header.
+- Falls back silently (no band) when `react-dom` is unavailable or the slot is not registered.
+
 ## 0.4.3 — 2026-11-02
 
 - Bottom-dock chips: four-state live status dot — spinning ring while running,

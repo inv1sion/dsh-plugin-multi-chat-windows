@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-multi-chat-windows",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "话分两头 · Stop switching between chats — open side-by-side native DSH conversations in split windows, minimize them to a live status dock (running / done / approval pending), tile with one click, and pop them out into their own browser window",
   "type": "module",
   "main": "lib/index.js",
