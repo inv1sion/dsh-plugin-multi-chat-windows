@@ -21,6 +21,11 @@ one window while others run; a bottom dock keeps the runners visible.
 
 - 🪟 **Session = window** — hover any chat row, click ⧉. Snap beside the main conversation or
   drag anywhere; geometry is remembered per session.
+
+  Where is the entry? Hover a sidebar row and hit the colored **split-window button** on the
+  right, or use the “⋯” menu (also offers a “pop out by default” toggle):
+
+  ![Entry guide](https://github.com/yuna78/dsh-plugin-multi-chat-windows/raw/main/docs/demo-entry.png)
 - 🎯 **Tile with one click** — every open window laid out side by side, tops aligned, equal height.
 - 📌 **Minimize, not disappear** — windows shrink into a bottom dock while their Session keeps
   running; chips show a **live status dot**: ⏳ running (spinner) · 🟢 done (new messages) ·

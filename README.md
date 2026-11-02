@@ -22,6 +22,10 @@ English: [README.en.md](./README.en.md) · Changelog: [CHANGELOG.md](./CHANGELOG
 ### 🪟 会话 = 小窗，随点随开
 左侧会话行悬停 ⧉ 一键把任何 chat 变成浮动小窗，贴在主对话旁边；拖走就自由摆放，位置宽高都帮你记住，下次打开原样回来。
 
+![入口指引](https://github.com/yuna78/dsh-plugin-multi-chat-windows/raw/main/docs/demo-entry.png)
+
+按法很简单：**悬停任意会话行，点右侧的「并列窗口」按钮**；或在 “⋯” 菜单里选「在并列窗口打开」——还可在菜单里勾选「默认弹出为独立窗口」。
+
 ### 🎯 一键平铺
 开了一串小窗撒得满屏都是？标题栏 ⊞ 一按，全部**横向排开**：顶对齐、同高、紧贴——像看监控墙一样看你的所有 AI 任务。
 
