@@ -1,4 +1,4 @@
-# 话分两头 · 会话并排小窗
+# 话分两头 · 会话并排小窗 - DSH 多窗口对话插件
 
 > **dsh-plugin-multi-chat-windows** — DSH Web GUI 插件
 > 把你的 AI 对话从「切来切去」变成「并排开火」。
